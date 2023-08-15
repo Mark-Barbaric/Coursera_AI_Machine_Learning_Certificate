@@ -1,0 +1,17 @@
+Supervised vs Unsupervised Learning
+
+Supervised Learning
+
+1. Classification
+2. Regression
+
+- seen most rapid advancements in real-world applications
+
+- spam filtering
+- speech recognition
+- machine translation
+- online advertising
+- visual inspection
+
+Unsupervised Learning
+
